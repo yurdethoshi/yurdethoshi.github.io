@@ -1,0 +1,7 @@
+.card{
+    background: blue linear-gradient(blue, blue);
+}
+
+.color{
+    background: linear-gradient(purple, deeppink);
+}
